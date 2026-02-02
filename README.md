@@ -24,7 +24,7 @@ Without segmentation, customer strategies are applied uniformly, leading to inef
 ---
 
 ## 📂 Dataset Description
-The dataset was gotten from (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci) contains over **525,000 transaction records** with the following fields:
+The dataset contains over **525,000 transaction records** with the following fields:
 - Invoice  
 - Invoice Date  
 - Customer ID  
